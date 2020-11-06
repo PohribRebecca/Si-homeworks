@@ -1,4 +1,4 @@
-# Si-homeworks
+# Si-first homework
 
 How to test the code:
 1. Download all 3 python files
