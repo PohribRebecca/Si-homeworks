@@ -1,5 +1,5 @@
 # Si-first homework
-Please read the README
+disclaimer: sometimes, the connection between A and B doesn't work
 How to test the code:
 1. Download all 3 python files
 2. Open 3 terminals
